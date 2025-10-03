@@ -14,6 +14,8 @@ Do this to edit or modify someone else's code
 2. Edit README.md to add your name
 3. Commit changes
 
+4. I have created the code!
+
 ### Create your own project
 Do this when you want to start your own repository for code you wrote originally
 1. Create a new repository
